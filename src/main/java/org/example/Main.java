@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Scanner;
 
-// Baştan ve sondan yazımları / okunuşları aynı olan kelimelere "Palindromik (palindrom)kelime"ler denir. Buna göre
+// Baştan ve sondan yazımları / okunuşları aynı olan kelimelere "Palindromik (palindrom) kelime"ler denir. Buna göre
 // klavyeden küçük harflerle girilen kelimenin palindromik olup olmadığını söyleyen program.
 // örn. kek,mum,küçük,kök
 public class Main {
